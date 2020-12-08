@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ALAN-AI-NEWS-APP/static/css/main.9d2f4264.chunk.css",
+    "main.js": "/ALAN-AI-NEWS-APP/static/js/main.63a2403c.chunk.js",
+    "main.js.map": "/ALAN-AI-NEWS-APP/static/js/main.63a2403c.chunk.js.map",
+    "runtime-main.js": "/ALAN-AI-NEWS-APP/static/js/runtime-main.087ceba3.js",
+    "runtime-main.js.map": "/ALAN-AI-NEWS-APP/static/js/runtime-main.087ceba3.js.map",
+    "static/js/2.12f86b5a.chunk.js": "/ALAN-AI-NEWS-APP/static/js/2.12f86b5a.chunk.js",
+    "static/js/2.12f86b5a.chunk.js.map": "/ALAN-AI-NEWS-APP/static/js/2.12f86b5a.chunk.js.map",
+    "index.html": "/ALAN-AI-NEWS-APP/index.html",
+    "static/css/main.9d2f4264.chunk.css.map": "/ALAN-AI-NEWS-APP/static/css/main.9d2f4264.chunk.css.map",
+    "static/js/2.12f86b5a.chunk.js.LICENSE.txt": "/ALAN-AI-NEWS-APP/static/js/2.12f86b5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.087ceba3.js",
+    "static/js/2.12f86b5a.chunk.js",
+    "static/css/main.9d2f4264.chunk.css",
+    "static/js/main.63a2403c.chunk.js"
+  ]
+}
